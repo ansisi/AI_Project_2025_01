@@ -66,3 +66,21 @@ Debug.log("--")
 - [X] #739
 - [ ] https://github.com/ansisi
 - [ ] add
+
+
+ # IMG2IMG
+ 
+ 
+ ![image](https://raw.githubusercontent.com/ansisi/AI_Project_2025_01/refs/heads/main/Image2Image/RedHat.webp
+)
+ 
+ >Prompt
+ 
+ *masterpiece, high_quality, super_detail, CG_game_cg,  a woman in a red witch hat and black skirt, coral hair, red vest, red wedge heels, long hair, cute, concept art, 25 years old, idol, blue eyes,*
+ 
+ >Negative Prompt
+ 
+ *(painting by bad-artist-anime:0.9), (painting by bad-artist:0.9), watermark, text, error, blurry, jpeg artifacts, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, artist name, (worst quality, low quality:1.4), bad anatomy, watermark, signature, text, logo*
+ 
+ ![image](https://github.com/ansisi/AI_Project_2025_01/blob/main/Image2Image/00154-1278117135.png?raw=true)
+ 
