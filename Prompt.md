@@ -29,9 +29,30 @@
 
 
 
+
+
 ## Blend two Keywords
+![image](TxtToImg/00006-1864035362.png)
+>prompt
+masterpiece, [sabrina capenter : karina \(aespa\)  : 0.4] :(1girl : 0.9), (flower : 0.3) , (sky : 0.4) ,[steampunk |  science fiction]
+
 ![image](TxtToImg/00006-1864035362.png)
 
 
 >prompt
 materpiece , [sabrina capenter : karina \(aespa\) : 0.4]
+
+
+
+
+## controlnet
+
+![image](Controlnet/00038-951549810.png)
+
+
+![image](Controlnet/00032-3980928511.png)
+
+
+## openpose
+![image](Controlnet/00032-3980928511.png)
+![image](Controlnet/00032-3980928511.png)
