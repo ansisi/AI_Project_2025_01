@@ -3,13 +3,35 @@
 ## prompt alternating
 
 
-![image](
-
-
-
-)
-
-## Blend two Keywords
+![image](TxtToImg/00026-1239320838.png)
 
 >prompt
-materpiece , [dfd]
+
+*materpiece , 1girl : (1.0), Flower :(1.0) , sky : (1.0)
+
+![image](TxtToImg/00027-2513779651.png)
+
+>prompt
+
+*materpiece , 1girl : (1.0), Flower :(0.7) , sky : (1.0)
+
+![image](TxtToImg/00028-2293273036.png)
+
+>prompt
+
+*materpiece , 1girl : (1.0), Flower :(1.0) , sky : (0.7)
+
+![image](TxtToImg/00029-2115364231.png)
+
+>prompt
+
+*materpiece , 1girl : (1.0), Flower :(0.7) , sky : (1.0)
+
+
+
+## Blend two Keywords
+![image](TxtToImg/00006-1864035362.png)
+
+
+>prompt
+materpiece , [sabrina capenter : karina \(aespa\) : 0.4]
